@@ -1,2 +1,16 @@
-# superProductivity-appimage-update
-It's installing latest superProductivity version and verifying sha512.
+# About superProductivity Script
+- It's installing latest superProductivity version and verifying sha512.
+  - The script has custom lines. Do not use without looking.
+    - Folder paths, File moving
+  - I don't take responsibility if cause errors.  
+
+# superProductivity Script TODOS
+- [X] Clear code
+- [X] Write version txt file
+- [ ] Check update when script started
+
+# Authors
+- Cyber-Syntax - Initial work
+
+# License
+- This project is licensed under the GPL 3.0 License - see the LICENSE.md file for details
