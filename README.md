@@ -1,3 +1,6 @@
+# It was abandoned.
+This script will no longer continue because I wrote a more advanced version of :unicorn: [my-unicorn](https://github.com/Cyber-Syntax/my-unicorn).
+
 # About superProductivity Script
 - It's installing latest superProductivity version and verifying sha512.
   - The script has custom lines. Do not use without looking.
